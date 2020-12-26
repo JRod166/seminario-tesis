@@ -4,3 +4,7 @@ g++ -std=c++11 main_calibration_ring.cpp -I /usr/local/include/opencv4/ /usr/loc
 # Ejecución
 ./main_calibration_ring
 # seminario-tesis
+
+# Videos Usados
+https://drive.google.com/drive/folders/1ncZgs9yuAC1nYZNvGVkSA3rxipENJHd_?usp=sharing
+
